@@ -10,5 +10,5 @@
    ```Bash
    pip install -r requirements.txt
    
-4. Run the Python script `neural_style_transfer.py` to start the web application.
+4. Run the Python script `rag_pdf_chatbot.py` to start the web application.
 5. Open your web browser and go to `http://127.0.0.1:7860` to access the web application.
